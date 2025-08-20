@@ -1,7 +1,7 @@
-package com.biblioteca.servicios;
+package biblioteca.servicios;
 
-import com.biblioteca.modelos.Libro;
-import com.biblioteca.modelos.Usuario;
+import biblioteca.modelos.Libro;
+import biblioteca.modelos.Usuario;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

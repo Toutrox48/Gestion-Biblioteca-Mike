@@ -1,4 +1,4 @@
-package com.biblioteca.modelos;
+package biblioteca.modelos;
 
 import java.util.ArrayList;
 import java.util.List;
